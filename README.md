@@ -35,7 +35,7 @@ $ node index
 <div align="center">
 
 # ● Grupo do Whatsapp ●
-[![Grupo do Whatsapp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/DUpv6qWkGoF7UU8cvBbnKl)
+[![Grupo do Whatsapp](https://img.shields.io/badge/WhatsApp%20Grupo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/DUpv6qWkGoF7UU8cvBbnKl)
 
 </div>
 
